@@ -35,7 +35,7 @@
 
 <html lang="ru">
 <head>
-<title>Лабораторная работа 1</title>
+<title>hit-counter</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link href="styles/style.css" rel="stylesheet" type="text/css" />
 
